@@ -1,4 +1,4 @@
->>This Task Manager Application will allow the followings features:
+This Task Manager Application will allow the followings features:
 
 1. Create new tasks
 2. Display the lists of all the tasks
